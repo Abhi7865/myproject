@@ -4,6 +4,10 @@
   <artifactId>myproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
   <name>myproject</name>
-  <description>demo project</description>
+  <description>demo project
+  <properties>
+          <failOnMissingWebXml>false</failOnMissingWebXml>
+    </properties></description>
 </project>
